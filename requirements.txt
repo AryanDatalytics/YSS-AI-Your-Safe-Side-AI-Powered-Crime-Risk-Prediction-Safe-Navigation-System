@@ -1,0 +1,30 @@
+# Core Data Science
+numpy
+pandas
+scikit-learn
+xgboost
+
+# Visualization
+matplotlib
+seaborn
+plotly
+
+# Geospatial Analysis
+geopandas
+shapely
+folium
+osmnx
+
+# Machine Learning Utilities
+joblib
+
+# Web Application
+streamlit
+
+# API / Backend (optional but useful)
+fastapi
+uvicorn
+
+# Utilities
+tqdm
+python-dotenv
